@@ -1,0 +1,13 @@
+
+/* grilla.html  */
+
+.col {
+    flex: 1 0 0%;
+    padding: 7px;
+  }
+
+
+  .row {
+    --bs-gutter-x: -21.5rem;
+    --bs-gutter-y: 0;
+  }
